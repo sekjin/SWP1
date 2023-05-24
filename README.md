@@ -2,7 +2,7 @@
 
 Kookmin University
 
-test line01
+testline
 
 test line02
 
