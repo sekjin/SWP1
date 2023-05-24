@@ -2,7 +2,11 @@
 
 Kookmin University
 
+<<<<<<< HEAD
 test line
+=======
+test line01
+>>>>>>> parent of 556e032 (Update README.md)
 
 test line02
 
